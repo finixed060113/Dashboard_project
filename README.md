@@ -1,4 +1,8 @@
-# Dashboard_project
+# Dashboard Planetas
+<p align="center">
+  <img src="https://github.com/finixed060113/Dashboard_project/blob/main/images/dashplanet.jpg" alt="planets">
+</p>
+
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo proporcionar información detallada sobre los ocho planetas del sistema solar utilizando datos obtenidos de la API "https://api.le-systeme-solaire.net/en/". El proyecto presenta un dashboard interactivo que muestra varias gráficas que representan características clave de los planetas.
 
@@ -11,7 +15,7 @@ Este proyecto tiene como objetivo proporcionar información detallada sobre los 
 Esta gráfica de barras compara el período orbital y el período de rotación de cada planeta en el sistema solar. El eje vertical muestra el tiempo en días, mientras que el eje horizontal representa los nombres de los planetas. Esta visualización permite una fácil comparación de cómo los planetas varían en sus órbitas y velocidades de rotación.
 
 <p align="center">
-  <img src="https://github.com/finixed060113/Dashboard_project/blob/main/images/barrasrotayorb.png" alt="BARRAS">
+  <img src="https://github.com/finixed060113/Dashboard_project/blob/main/images/barrasrotayorb.png" alt="Dispersion">
 </p>
 
 ### Gráfica de Dispersión - Eje Semimayor vs. Temperatura Media
@@ -50,9 +54,3 @@ Este proyecto se ha desarrollado utilizando las siguientes herramientas y tecnol
 - **pandas:** La biblioteca `pandas` se utilizó para el manejo de datos y la creación de dataframes para su posterior visualización.
 
 - **os:** La biblioteca `os` se utilizó para acceder a las variables de entorno del sistema operativo, incluyendo el almacenamiento y recuperación del token de API.
-
-- **GitHub:** El repositorio de este proyecto se encuentra alojado en GitHub, lo que facilita la colaboración y el seguimiento de cambios.
-
-- **Visual Studio Code:** Se utilizó Visual Studio Code como el entorno de desarrollo principal para escribir y probar el código.
-
-Es importante destacar que estas herramientas y tecnologías fueron fundamentales para el desarrollo exitoso de este proyecto y la creación del dashboard interactivo.
