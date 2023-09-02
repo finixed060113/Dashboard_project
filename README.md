@@ -34,3 +34,25 @@ La gráfica polar representa la inclinación orbital de cada planeta en grados u
 <p align="center">
   <img src="https://github.com/finixed060113/Dashboard_project/blob/main/images/inclina.png" alt="Inclinacion">
 </p>
+
+## Herramientas Utilizadas
+
+Este proyecto se ha desarrollado utilizando las siguientes herramientas y tecnologías:
+
+- **Power BI:** Se utilizó Power BI para la creación de visualizaciones interactivas y el diseño del dashboard.
+
+- **Python:** Se utilizó Python como lenguaje de programación principal para obtener datos de la API y realizar manipulación de datos.
+
+- **dotenv:** La biblioteca `dotenv` se utilizó para cargar las variables de entorno desde el archivo `.env`, lo que ayuda a mantener las configuraciones sensibles separadas del código fuente.
+
+- **requests:** La biblioteca `requests` se utilizó para realizar solicitudes a la API del sistema solar y obtener datos.
+
+- **pandas:** La biblioteca `pandas` se utilizó para el manejo de datos y la creación de dataframes para su posterior visualización.
+
+- **os:** La biblioteca `os` se utilizó para acceder a las variables de entorno del sistema operativo, incluyendo el almacenamiento y recuperación del token de API.
+
+- **GitHub:** El repositorio de este proyecto se encuentra alojado en GitHub, lo que facilita la colaboración y el seguimiento de cambios.
+
+- **Visual Studio Code:** Se utilizó Visual Studio Code como el entorno de desarrollo principal para escribir y probar el código.
+
+Es importante destacar que estas herramientas y tecnologías fueron fundamentales para el desarrollo exitoso de este proyecto y la creación del dashboard interactivo.
